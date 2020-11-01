@@ -1,0 +1,22 @@
+.ProductCard {
+	margin: 10px 5px;
+	max-width: 250px;
+	border: 2px solid black;
+	border-radius: 5px;
+}
+
+img {
+	height: 80%;
+	max-width: 100%;
+	display: block;
+	margin: auto;
+}
+
+.productName {
+	float: left;
+	margin: 10px;
+}
+.productQty {
+	float: right;
+	margin: 10px;
+}
